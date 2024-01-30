@@ -1,4 +1,5 @@
-# Content:
+# Some AI idea for projects
+## Content:
 - [English](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#ai-module-roles-in-39-projects)
 - [Bản tiếng Việt](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#b%E1%BA%A3n-ti%E1%BA%BFng-vi%E1%BB%87t)
 
