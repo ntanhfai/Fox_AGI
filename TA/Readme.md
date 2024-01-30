@@ -15,7 +15,7 @@
 # Đã download weight và chạy thử
 ## whisper
 
-H:\AGI-Projects\whisper\main.py
+`H:\AGI-Projects\whisper\main.py`
 
 
 ## EnViT5 Translation
