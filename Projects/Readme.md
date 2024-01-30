@@ -1,9 +1,10 @@
-# Some AI idea for projects
+# Some AI idea for projects (AI module Roles in 39 Projects)
 ## Content:
-- [English](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#ai-module-roles-in-39-projects)
-- [Bản tiếng Việt](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#b%E1%BA%A3n-ti%E1%BA%BFng-vi%E1%BB%87t)
+- [1. English](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#ai-module-roles-in-39-projects)
+- [2. Bản tiếng Việt](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#b%E1%BA%A3n-ti%E1%BA%BFng-vi%E1%BB%87t)
+- [3. 中文]()
 
-# AI module Roles in 39 Projects:
+# 1. English
 
 1. **Auto Copy IC/Auto Laser**
    - **AI Role:** Not required.
@@ -198,7 +199,7 @@
     - **Input:** Operational system data, optimization requirements.
     - **Output:** Predictive analytics for operational system optimization.
 
-# Bản tiếng Việt:
+# 2. Bản tiếng Việt:
 
 Dưới đây là phân tích về việc thêm phần trí tuệ nhân tạo (AI) vào từng dự án trong ngành sản xuất sản phẩm điện tử:
 
@@ -396,7 +397,7 @@ Dưới đây là phân tích về việc thêm phần trí tuệ nhân tạo (A
     - **Nhiệm vụ AI:** Triển khai hệ thống Thông tin Doanh nghiệp (BI) với phân tích dự đoán để tối ưu hóa hệ thống hoạt động.
 
 
-# Chinese
+# 3. 中文
 
 # AI模組在39個專案中的角色：
 
