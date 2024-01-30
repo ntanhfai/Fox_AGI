@@ -1,8 +1,8 @@
 # Some AI idea for projects (AI module Roles in 39 Projects)
 ## Content:
-- [1. English](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#ai-module-roles-in-39-projects)
-- [2. Bản tiếng Việt](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#b%E1%BA%A3n-ti%E1%BA%BFng-vi%E1%BB%87t)
-- [3. 中文]()
+- [1. English](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#1-english)
+- [2. Bản tiếng Việt](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#2-b%E1%BA%A3n-ti%E1%BA%BFng-vi%E1%BB%87t)
+- [3. 中文](https://github.com/ntanhfai/Fox_AGI/blob/main/Projects/Readme.md#3-%E4%B8%AD%E6%96%87)
 
 # 1. English
 
